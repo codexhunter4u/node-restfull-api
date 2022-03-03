@@ -2,9 +2,9 @@
 
 Content discussed : 
  - Modular API development 
- - Post Postman Data into Node.js
+ - Post data from Postman into Mondodb
  - API TOken Validation with JWT TOKEN
- - Insert, Update and Delete with Node and Mysql
+ - Insert, Update and Delete with Node and Mondodb
 
 ## How setup
 
