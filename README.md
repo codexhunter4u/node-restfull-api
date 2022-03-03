@@ -6,7 +6,7 @@ Content discussed :
  - API TOken Validation with JWT TOKEN
  - Insert, Update and Delete with Node and Mondodb
 
-## How setup
+## How to setup
 
 ```
 $ git clone git@github.com:codexhunter4u/node-restfull-api.git
